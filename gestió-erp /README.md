@@ -15,4 +15,4 @@ Per a aquest projecte, he configurat l'entorn per cobrir el cicle complet de ges
 * **Plataforma:** Dolibarr ERP/CRM.
 
 ## Evidències Visuals
-[Fes clic aqui per veure la memòria completa del projecte amb captures de pantalla](./pdf)
+[Fes clic aqui per veure la memòria completa del projecte amb captures de pantalla](./María Oliva Salón - 🖥️ CRM/ERP Clínica Veterinària.pdf)
