@@ -1,5 +1,9 @@
 # Projecte Free - IPO (Maria Oliva Salón)
 
+## Sobre mi
+Hola! El meu nom és Maria Oliva Salón i soc futura desenvolupadora d'aplicacions web.
+Em considero una persona organitzada, amb una gran capacitat d'adaptació i resolució de problemes de manera autònoma. 
+
 ## Descripció del Projecte
 El **Projecte Free** és una solució tecnològica que unifica el desenvolupament de programari lúdic, la gestió empresarial automatitzada i la configuració d'infraestructures de xarxa. El projecte neix de la necessitat de simular un entorn corporatiu real, cobrint des de la programació de l'aplicació final fins al desplegament en servidors i la gestió de clients.
 
